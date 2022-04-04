@@ -6,4 +6,4 @@ Function: There is a "Hit Me!" button, every time you click it, it will tells us
 
 This APP was designed by XCode on Mac. 
 
-References I used: https://www.youtube.com/watch?v=F2ojC6TNwws
+Tutorial I used: https://www.youtube.com/watch?v=F2ojC6TNwws
